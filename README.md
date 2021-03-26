@@ -12,6 +12,10 @@ To Do List app made using vanilla JavaScript.
 
 ![website demo](website-demo.gif)
 
+### To view
+See live website here: 
+- https://NeirouzJbira.github.io/To-Do-List/
+
 ### Technologies
 
 - HTML
